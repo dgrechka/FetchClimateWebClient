@@ -2,6 +2,8 @@ FetchClimate
 
 Copyright (c) Microsoft Corporation
 
+Copyright (c) 2017 Dmitry Grechka
+
 All rights reserved. 
 
 MIT License
