@@ -1,2 +1,0 @@
-to build this project you need to download ScientifitDataSet.msi from https://www.microsoft.com/en-us/download/confirmation.aspx?id=52412 and put it into the project directory.
-It is used to deploy ScientifitDataSet.msi on the worker roles.

@@ -1,1 +1,0 @@
-You need to install https://www.microsoft.com/en-us/download/confirmation.aspx?id=52412 in order to build this solution.
